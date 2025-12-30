@@ -1,4 +1,4 @@
-# 🏧 ATM Management System (Mini-Project 2)
+# 🏧 ATM Management System
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
